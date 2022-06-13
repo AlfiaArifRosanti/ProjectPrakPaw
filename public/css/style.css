@@ -1,0 +1,19 @@
+.warnabg{
+    background-color: rgb(145, 206, 241);
+}
+
+a {
+    color: black;
+}
+
+.cl{
+    color: black;
+}
+.fototengah{
+    display: flex;
+    justify-content: center;
+}
+.navbarlogo{
+    padding: 15px;
+    color: white;
+}
